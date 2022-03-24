@@ -7,4 +7,4 @@
 <br>
 
 - Terminal Font: **Fantasque Sans Mono**
-- Neofetch: [**Custom**](https://github.com/iamsamiulazim/Dotfiles/blob/main/.config/neofetch/config.conf)
+- Neofetch: [**Custom**](https://github.com/w3samiulazim/Dotfiles/blob/main/.config/neofetch/config.conf)
